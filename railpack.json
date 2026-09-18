@@ -1,0 +1,6 @@
+{
+  "provider": "python",
+  "start": {
+    "cmd": "python bot.py"
+  }
+}
